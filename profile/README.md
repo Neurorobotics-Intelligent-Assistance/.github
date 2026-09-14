@@ -59,4 +59,4 @@ You never need to type scary computer codes or use a black command screen! 🙅�
 ## 📬 Need Help or Have Questions?
 
 Don't hesitate to reach out if you get stuck or need assistance! 💬  
-For anything, feel free to contact us at: **[riccardo.donati@tum.de]** ✉️
+For anything, feel free to contact us at: **riccardo.donati@tum.de** ✉️
