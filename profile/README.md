@@ -8,8 +8,8 @@ Welcome aboard! 🚀 This is our shared digital playground where we keep all our
 
 Inside our organization, you will find three main boxes:
 
-* **`lab-common-tools`** 🧰: A treasure chest filled with ready-to-use MATLAB, Simulink, and Arduino tools that already work perfectly. It is **locked (read-only)** so nobody breaks the toys by accident! 🔒 You can look inside and download them anytime.
-* **`FAQ`** 📖: Our magic answer book and lab wiki! Check here first if you have questions, need troubleshooting tips, or want to read lab guidelines. 
+* **`lab-common-tools`**: A repository with ready-to-use MATLAB, Simulink, and Arduino tools that can help you in your work. It is **locked (read-only)** so nobody breaks the toys by accident! 🔒 You can look inside and download them anytime.
+* **`FAQ`** 📖: Our answer book and lab wiki! Check here first if you have questions, need troubleshooting tips, or want to read lab guidelines. 
 * **`thesis-your_name`** 🎓: Your own special workshop folder where you can build your cool projects, start your thesis, and write code with absolute freedom. 🎨
 
 ---
