@@ -36,7 +36,7 @@ You never need to type scary computer codes or use a black command screen! 🙅�
 
 ### Step 2: Getting a project folder (Clone) 📂
 1. In GitHub Desktop, click **File** then **Clone repository...**.
-2. Pick our lab name from the list, then select your project or `lab-common-tools`.
+2. Pick our lab name from the list, then select your project.
 3. Choose a folder on your computer where you want to keep it, and click **Clone**. Now the folder is right on your computer! 💻✨
 
 ### Step 3: Saving and sharing your work (The Daily Routine) 🔄
