@@ -1,10 +1,10 @@
 # 👋 Welcome to Our Lab! 🌟
 
-Welcome aboard! 🚀 This is our shared digital playground where we keep all our code, cool projects, and robot helper files. Think of it like a giant digital toy box that everyone in the lab shares together! 🧸✨
+Welcome aboard! 🚀 This is our shared digital playground where we keep all our code, cool projects, and robot helper files. Think of it like a giant digital toy box that everyone in the lab shares together!
 
 ---
 
-## 🗃️ Our Special Lab Boxes (Repositories)
+## 🗃️ Repositories
 
 Inside our organization, you will find three main boxes:
 
@@ -32,7 +32,7 @@ You never need to type scary computer codes or use a black command screen! 🙅�
 
 ### Step 1: Setting up your helper 🛠️
 1. Download and open **[GitHub Desktop](https://desktop.github.com/)** on your computer.
-2. Click **Sign in** with your GitHub account so it knows who you are. 🎉
+2. Click **Sign in** with your GitHub account so it knows who you are.
 
 ### Step 2: Getting a project folder (Clone) 📂
 1. In GitHub Desktop, click **File** then **Clone repository...**.
